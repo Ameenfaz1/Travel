@@ -1,0 +1,73 @@
+#b1{
+    color: gold;
+    border: none;
+}
+#b2{
+    background-color: gold;
+    border: none;
+}
+.t1{
+text-align: center;
+width: 100%;
+}
+
+#c1{
+color: white;    
+}
+
+#c2{
+    color:gold ;
+}
+
+.bggg{
+    background-image: url("https://img.freepik.com/free-photo/majestic-pyramid-shape-awe-inspiring-ancient-civilization-monument-generated-by-ai_188544-21352.jpg?size=626&ext=jpg&ga=GA1.2.230397012.1704790489&semt=ais");
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+.mtttt{
+    margin-top: 150px !important;
+}
+#button{
+    font-size:large;
+    color: black;
+    background-color: aliceblue;
+    width: 150px;
+    height: 40px;
+    margin-left: 530px;
+    border: none;
+
+}
+
+#c3{
+    color:gold ;
+    text-align: center;
+}
+#b222{
+background-color: gold;    
+border: none;
+
+}
+
+#b33{
+    background-color: gold;
+    border: none;
+
+}
+#button:hover{
+background-color: bisque;
+    cursor: pointer;
+    border: none;
+
+}
+
+#s1{
+    color: gold;
+}
+
+#b55{
+    background-color: gold;
+    width: 150px;
+    border: none;
+}
